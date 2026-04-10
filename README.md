@@ -5,8 +5,6 @@ Comprehensive analysis of major German banking stocks and the DAX index
 using real market data fetched via yfinance. Combines financial analysis,
 risk metrics, volatility modeling and SQL-style queries using pandas.
 
-![Price History](plot1_price_history.png)
-
 ## Stocks Analyzed
 - 🏦 Deutsche Bank (DBK.DE)
 - 🏦 Commerzbank (CBK.DE)
